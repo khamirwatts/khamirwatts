@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy Taking photos and working on my newslett
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- AI prompt development in the workfield
+- SQL queries to solve higher complex business problems
 
 ## 🛠️ Technical Skillset
 
